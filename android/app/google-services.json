@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "873799171280",
+    "project_id": "jobease-141a4",
+    "storage_bucket": "jobease-141a4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873799171280:android:729e27eef932458a4472d5",
+        "android_client_info": {
+          "package_name": "com.example.sinem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj0U-haFxGVMLHuCMj1mNtGR08gUNVMq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
